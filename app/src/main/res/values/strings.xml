@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">QRdroid</string>
+    <string name="scan_button">Scan</string>
+    <string name="bookmarks_button">Bookmarks</string>
+    <string name="dark_mode_toggle">Dark Mode</string>
 </resources>
